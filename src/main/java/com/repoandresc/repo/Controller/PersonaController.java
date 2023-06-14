@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@CrossOrigin(origins = {"https://integradorfinalandresceb.web.app/"})
+@CrossOrigin(origins = {"https://integrador-argentina-programa.web.app/"})
 
 /*web actualizada*/
 public class PersonaController {
